@@ -1,0 +1,10 @@
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\bin\Release\netstandard2.0\Hangfire.PostgreSql.deps.json
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\bin\Release\netstandard2.0\Hangfire.PostgreSql.dll
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\bin\Release\netstandard2.0\Hangfire.PostgreSql.pdb
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\obj\Release\netstandard2.0\Hangfire.PostgreSql.csproj.AssemblyReference.cache
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\obj\Release\netstandard2.0\Hangfire.PostgreSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\obj\Release\netstandard2.0\Hangfire.PostgreSql.AssemblyInfoInputs.cache
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\obj\Release\netstandard2.0\Hangfire.PostgreSql.AssemblyInfo.cs
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\obj\Release\netstandard2.0\Hangfire.PostgreSql.csproj.CoreCompileInputs.cache
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\obj\Release\netstandard2.0\Hangfire.PostgreSql.dll
+C:\Work\regulation\Sources\Hangfire.Postgres(Devart)\Hangfire.PostgreSql\obj\Release\netstandard2.0\Hangfire.PostgreSql.pdb

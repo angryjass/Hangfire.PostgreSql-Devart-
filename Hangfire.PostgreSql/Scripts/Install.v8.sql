@@ -1,0 +1,22 @@
+﻿SET search_path = 'hangfire';
+--
+-- Table structure for table `Schema`
+--
+
+--separator
+DO
+$$
+BEGIN
+    IF EXISTS (SELECT 1 FROM "schema" WHERE "version"::integer >= 8) THEN
+        RAISE EXCEPTION 'version-already-applied';
+    END IF;
+END
+$$;
+
+--separator
+ALTER TABLE "counter" ALTER COLUMN value TYPE bigint;
+--separator
+ALTER TABLE "counter" DROP COLUMN updatecount RESTRICT;
+
+--separator
+RESET search_path;
